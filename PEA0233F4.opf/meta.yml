@@ -1,0 +1,65 @@
+id: PEA0233F4
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23892
+  instance_id: http://purl.bdrc.io/resource/IE23892
+  collection_id: http://purl.bdrc.io/resource/PR0ET002
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། ཀུན་དགའ་རིན་ཆེན།
+  alt_title:
+    en-x-mixed:
+    - the collected works (gsun 'bum) of rgyal dban kun dga' rin chen (1475-1527)
+  author: http://purl.bdrc.io/resource/P466
+  publisher: DrikungChetsang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    12e2f95792724895906640e6a90f1023:
+      title: །ཡེ་ཤེས་ཀྱི་མཁའ་འགྲོ་མ་ཨ་ཕྱི་ཆོས་ཀྱི་སྒྲོལ་མའི་སྒྲུབ་ཐབས་ནོར་བུ་བསམ་འཕེལ་ཞེས་བྱ་བ་བཞུགས་སོ།་།རྗེ་བཙུན་རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལ་ཕྱག
+      volume_number: 6
+      base_file: UT23892_006_0005.txt
+      reference: http://purl.bdrc.io/resource/VLABEE36C969275961
+      image_group: null
+      quality: null
+    e59a7db3eb444ba2a06c513cd9b58cdf:
+      title: བདེ་ཆེན་ཞིང་དུ་སྐྱེ་བའི་སྨོན་ལམ་ཚིག་བཞི་མ།
+      volume_number: 2
+      base_file: UT23892_002_0001.txt
+      reference: http://purl.bdrc.io/resource/VL8645612BCBF12E6A
+      image_group: null
+      quality: null
+    09b694b8ce7c4f7fa9e63c551dbe8d5b:
+      title: པ།སློབ་དཔོན་སྟོན་པ།བསོད་དབང༌།ལོ་མཆོགདབང་ལོ།བསོད་གྲགས།གྲགས་རྒྱལ།རིན་རྒྱལ་བ།རྒྱལ་བ་ཕྱག་ན།ཆོས་ཀྱི་རྗེ་ཀུན་དགའ་བློ་གྲོས་པ།དེས་བདག་ཀུ
+      volume_number: 5
+      base_file: UT23892_005_0006.txt
+      reference: http://purl.bdrc.io/resource/VL1A77E41DDBD72EBF
+      image_group: null
+      quality: null
+    7074579d2f2647e5b400538da0442b7e:
+      title: །རྒྱལ་དབང་ཀུན་དགའ་རིན་ཆེན་གྱི་ཤིན་ཏུ་གསང་བའི་རྣམ་ཐར་ཉམས་ལེན་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།་།།བདེ་ཆེན་སྒྱུ་མའི་གར་གྱི་རྣ
+      volume_number: 1
+      base_file: UT23892_001_0007.txt
+      reference: http://purl.bdrc.io/resource/VLC04021ADE858DE5B
+      image_group: null
+      quality: null
+    2b8ac4c99a674a10a21838308253de2c:
+      title: ༄༅།་།དྭགས་པོ་པཎ་ཆེན་གསུང་རབ་མང་ཐོས་པས་མཛད་པའི་བསྟོད་པ་འགྲོ་བའི་བླ་མ་ཞེས་བྱ་བ།་།ན་མོ་གུ་རུ།འགྲོ་བའི་བླ་མ་རྒྱལ་བ་ཀུན་གྱི་དངོས།
+      volume_number: 3
+      base_file: UT23892_003_0003.txt
+      reference: http://purl.bdrc.io/resource/VL5E85F2C802EC314B
+      image_group: null
+      quality: null
+    61f8171713e7443a86e666a4b44b2520:
+      title: །ལམ་ཟབ་བླ་མའི་རྣལ་འབྱོར་བྱིན་རླབས་ཀྱི་གཏེར་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།
+      volume_number: 4
+      base_file: UT23892_004_0010.txt
+      reference: http://purl.bdrc.io/resource/VL6F3EA464B61108E5
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W23892
+  - http://purl.bdrc.io/resource/MW23892
+created_at: '2021-12-29T12:01:36.748264'
+last_modified_at: '2021-12-29T12:01:36.748275'
