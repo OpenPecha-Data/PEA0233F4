@@ -63,3 +63,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/MW23892
 created_at: '2021-12-29T12:01:36.748264'
 last_modified_at: '2021-12-29T12:01:36.748275'
+statistics:
+  total_words: 552060
+  total_non_words: 62927
+quality:
+  non_words_ratio: 0.11
